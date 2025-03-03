@@ -1,6 +1,6 @@
-#Project Two
+# Project Two
 
-##PROJECT DETAILS
+## PROJECT DETAILS :
 
 “This is a homepage of a website for listening to songs.”
 
